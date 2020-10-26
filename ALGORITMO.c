@@ -12,6 +12,7 @@ int posiciones[LIMITE_ARREGLOS]; //
 void FIFO ()
 {
 
+    # Some chantes test
     printf("Ingresa la cantidad de procesos \n");
     scanf("%d",&cantidadProcesos);
     if(cantidadProcesos>LIMITE_ARREGLOS)
